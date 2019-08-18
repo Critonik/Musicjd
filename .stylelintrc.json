@@ -1,0 +1,10 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "color-hex-case": "lower",
+    "indentation": 4
+  },
+  "ignoreFiles": [
+    "build/*"
+  ]
+}

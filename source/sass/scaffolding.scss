@@ -1,7 +1,39 @@
 @font-face {
     font-weight: bold;
-    font-family: "TochkaSans-Bold";
+    font-family: "OpenSans-Bold";
     font-style: normal;
     font-display: swap;
-    src: url("../fonts/TochkaSans-Bold.woff2") format("woff2"), url("../fonts/TochkaSans-Bold.woff") format("woff"),;
+    src: url("../fonts/opensansbold.woff2") format("woff2"), url("../fonts/opensansbold.woff") format("woff");
+}
+
+@font-face {
+    font-weight: lighter;
+    font-family: "OpenSans-Light";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/opensanslight.woff2") format("woff2"), url("../fonts/opensanslight.woff") format("woff");
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: "OpenSans";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/opensans.woff2") format("woff2"), url("../fonts/opensans.woff") format("woff");
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: "MyriadPro-Regular";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/MyriadPro-Regular.woff2") format("woff2"), url("../fonts/MyriadPro-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: "dosis-regular";
+    font-style: normal;
+    font-display: swap;
+    src: url("../fonts/dosis-regular.woff2") format("woff2"), url("../fonts/dosis-regular.woff") format("woff");
 }

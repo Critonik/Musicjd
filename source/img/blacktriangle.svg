@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5" height="10" viewBox="0 0 5 10">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #000002;
+            fill-rule: evenodd;
+            }
+        </style>
+    </defs>
+    <path id="Button_icon_копия" data-name="Button icon копия" class="cls-1" d="M268.86,5471L268,5469.96l3.3-3.96-3.3-3.97,0.861-1.03,4.141,5h0Z" transform="translate(-268 -5461)"/>
+</svg>

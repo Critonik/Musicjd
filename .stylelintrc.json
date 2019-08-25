@@ -5,6 +5,7 @@
     "indentation": 4
   },
   "ignoreFiles": [
-    "build/*"
+    "build/*",
+    "index.html"
   ]
 }

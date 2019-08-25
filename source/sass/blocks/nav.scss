@@ -6,6 +6,23 @@
     color: #606060;
     text-transform: uppercase;
     font-family: $dosis;
+    position: relative;
+}
+
+.main-nav_toggle {
+    content: '';
+    background-image: url("../img/burgermenu.svg");
+    cursor: pointer;
+    user-select: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 58px;
+    width: 88px;
+    border: 0;
 }
 
 .main-nav_list {
